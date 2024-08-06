@@ -1,5 +1,7 @@
-# N-Queens-Visualiser
-Welcome to N-Queen Visualiser with Backtracking, an interactive web application that allows you to visualize the solution to the classic N-Queens problem using HTML, JavaScript, CSS, and the Backtracking algorithm.
+# N-Queens-Visualizer
+Welcome to N-Queen Visualizer with Backtracking, an interactive web application that allows you to visualize the solution to the classic N-Queens problem using HTML, JavaScript, CSS, and the Backtracking algorithm.
+
+You can view the live demo of the project [N-Queens-Visualizer](https://n-queens-visualizer-flame.vercel.app/).
 
 <b>Key Features:</b><br>
 <ul>
